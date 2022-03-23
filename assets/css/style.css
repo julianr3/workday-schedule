@@ -38,9 +38,10 @@ body {
   }
   
   .hour {
-    background-color: #ffffff;
+    background-color: #e4ab31;
     color: #000000;
     border-top: 1px dashed #000000;
+    font-size: 20px;
   }
   
   .past {

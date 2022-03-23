@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    background-color: rgb(197, 197, 197);
   }
   
   textarea {
@@ -17,7 +18,7 @@ body {
     background: linear-gradient(to left, green, blue);
     text-align: center;
     background-color: transparent;
-    color: black;
+    color: white;
     border-radius: 0;
     border-bottom: 10px solid black;
   }
@@ -41,7 +42,8 @@ body {
     background-color: #e4ab31;
     color: #000000;
     border-top: 1px dashed #000000;
-    font-size: 20px;
+    font-size: 23px;
+    padding-top: 32px;
   }
   
   .past {
